@@ -1,0 +1,2 @@
+models:
+    Api\Cadastros\User: { uuid: 'string:36', name: string, email: string, email_verified_at: 'datetime nullable', password: string, remember_token: 'string:100 nullable' }
